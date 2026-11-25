@@ -19,7 +19,8 @@ editar y eliminar contactos con fotografía.
 | 3 | Christian Eduardo Rosales González | 25270553 |
 
 **Docente:** _(completar)_
-**Institución:** _(completar)_
+**Institución:** _INSTITUTO TECNOLÓGICO NACIONAL DE MEXICO
+CAMPUS TUXTLA GUTIÉRREZ_
 **Fecha de entrega:** Noviembre 2026
 
 ---
